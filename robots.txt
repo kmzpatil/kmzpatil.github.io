@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: PerplexityBot
+User-Agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://kmzpatil.github.io/sitemap.xml
